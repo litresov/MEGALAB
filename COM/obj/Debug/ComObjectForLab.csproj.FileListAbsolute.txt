@@ -1,0 +1,7 @@
+E:\MEGALAB\SpaceInvaders\COM\bin\Debug\COM.dll
+E:\MEGALAB\SpaceInvaders\COM\bin\Debug\COM.pdb
+E:\MEGALAB\SpaceInvaders\COM\obj\Debug\ComObjectForLab.csprojAssemblyReference.cache
+E:\MEGALAB\SpaceInvaders\COM\obj\Debug\ComObjectForLab.csproj.CoreCompileInputs.cache
+E:\MEGALAB\SpaceInvaders\COM\obj\Debug\COM.dll
+E:\MEGALAB\SpaceInvaders\COM\obj\Debug\COM.pdb
+E:\MEGALAB\SpaceInvaders\COM\bin\Debug\COM.tlb
