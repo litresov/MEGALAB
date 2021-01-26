@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<component>
+
+<registration
+	description="MEGALABScript"
+	progid="MEGALABScript.WSC"
+	version="1.00"
+	classid="{f01c651b-5639-3c0b-82a2-23244718bd4a}"
+>
+</registration>
+
+<public>
+	<method name="Win" dispid = "1">
+	</method>
+	<method name="Defeat" dispid = "2">
+	</method>
+</public>
+
+
+<script language="VBScript">
+<![CDATA[
+
+function Win()	
+	MsgBox("Победа")
+	
+end function
+
+function Defeat()
+	MsgBox("Поражение")
+end function
+]]>
+</script>
+
+</component>
