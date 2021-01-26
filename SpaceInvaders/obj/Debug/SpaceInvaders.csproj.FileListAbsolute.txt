@@ -1,0 +1,7 @@
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+E:\MEGALAB\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
